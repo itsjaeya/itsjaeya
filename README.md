@@ -1,4 +1,4 @@
-## Hi there 👋
+### 🙋‍♀️ 백엔드 개발자 이윤재입니다 
 
 <!--
 **itsjaeya/itsjaeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
