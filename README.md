@@ -37,6 +37,11 @@
 </table>
 </div>
 
+### 🏆 Awards
+* Grand Prize, College of Engineering Capstone Design Project
+* Top 4 Finalist, Big Data Competition with AWS
+* Elastic Award, AWS Rookie Championship
+
 <!--
 **itsjaeya/itsjaeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
