@@ -1,4 +1,4 @@
-### 🙋‍♀️ 백엔드 개발자 이윤재입니다 
+### Hello! I'm Yunjae :D
 
 <div align="left">
 <h3>⚒️ Tech Stacks</h3>
