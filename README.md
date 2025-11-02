@@ -1,5 +1,8 @@
 ### 🙋‍♀️ 백엔드 개발자 이윤재입니다 
 
+<div align="left">
+<h3>⚒️ Tech Stacks</h3>
+
 ### 📊 Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=itsjaeya&show_icons=true&theme=holi" width = "49%" height="130%"/>
