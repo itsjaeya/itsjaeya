@@ -1,6 +1,33 @@
 ### Hello! I'm Yunjae :D
 
 <div align="left">
+<h3>🖥️ Projects</h3>
+  
+<table>
+  <tr>
+    <td><b>LOWLAW</b></td>
+    <td>
+      <ul>
+        <li>A legal advisory platform designed to support the resolution of rental disputes</li>
+        <li>Implemented a Python-based similarity ranking system to search relevant laws and precedents</li>
+        <li>Built a Django web interface and deployed the platform on AWS for stable service operation</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>HRaccoon</b></td>
+    <td>
+      <ul>
+        <li>An HR Management System for Companies</li>
+        <li>Implemented employee-facing request/cancellation features and admin-facing approval/rejection functions</li>
+        <li>Built a web interface using Spring Boot and deployed the platform on AWS for reliable service operation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="left">
 <h3>⚒️ Tech Stacks</h3>
   
 <table>
